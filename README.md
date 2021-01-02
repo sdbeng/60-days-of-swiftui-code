@@ -8,7 +8,7 @@ I know there are infinite number of tools and ways to go through this but I ust 
 
 My idea is to code a full iOS app with SwiftUI where will be learning and testing up on the new Swift api. Of course, it will grow and improve over time.
 
-Goal: Publish and iPhone app to the App Store.
+My Goal: Publish and iPhone app to the App Store.
 
 ## Steps if you want to do the challenge:
 Fork the repo and write a sentence in the log file about your status, or current issues you are facing, plus any link to stackoverflow you have researched to solve the problem.
