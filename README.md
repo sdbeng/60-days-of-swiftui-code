@@ -6,6 +6,9 @@ My idea is to code a full iOS app with SwiftUI where will be learn and brush up 
 
 At the end of the road I'll have he app on the App Store.
 
+## Steps
+Make a PR and push an entry in the log file.
+
 ## Contributions
 You're welcome to make contributions and enhance the project or code by making PRs.
 
