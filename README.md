@@ -10,8 +10,8 @@ My idea is to code a full iOS app with SwiftUI where will be learning and testin
 
 Goal: Publish and iPhone app to the App Store.
 
-## Steps
-Make a 1-line PR in the log file.
+## Steps if you want to do the challenge:
+Fork the repo and write a sentence in the log file about your status, or current issues you are facing, plus any link to stackoverflow you have researched to solve the problem.
 
 ## Contributions
 You're welcome to make contributions and enhance the project or code by making PRs.
