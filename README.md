@@ -2,7 +2,7 @@
 
 Welcome to Getting started with #60daysofswiftuicode 2021 project!! 
 
-I'm glad you decided to join me. I strongly believe that pair programming and collaboration between developers is the best idea to start and finish a project.
+I'm glad you decided to join me on this challenge. I strongly believe that pair programming and collaboration between developers is the best idea to start and finish a project.
 
 I know there are infinite number of tools and ways to go through this but I ust want to get started right away - there will always be road blocks and life changes I think I need to set a couple of goals and work hard to make things happen. No more waiting. Beat procrastination!
 
@@ -17,5 +17,6 @@ Fork the repo and write a sentence in the log file about your status, or current
 You're welcome to make contributions and enhance the project or code by making PRs.
 
 ## Have a blessed 2021 year!
+Send me a tweet or linkedin invite to connect. I can't wait to pair up with fellow devs!!🧰 🚀
 
 
