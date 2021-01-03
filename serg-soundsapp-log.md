@@ -1,1 +1,21 @@
+## Logs
+
 day1 - brainstorm idea, discuss client segment, create 1024x icon, create xcode project, app name
+
+day2 -
+
+day3 -
+
+day4 -
+
+day5 -
+
+day6 -
+
+day7 -
+
+day8 -
+
+day9 -
+
+day10 -
