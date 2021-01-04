@@ -4,7 +4,7 @@ day1 - brainstorm idea, discuss client segment, create 1024x icon, create xcode 
 
 day2 - learning about app cycle -  checking out assets & resources, colors...
 
-day3 -
+day3 - Reviewing Core Data API - misc topics
 
 day4 -
 
