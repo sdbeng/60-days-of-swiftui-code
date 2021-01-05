@@ -6,7 +6,7 @@ day2 - learning about app cycle -  checking out assets & resources, colors...
 
 day3 - Reviewing Core Data API - misc topics
 
-day4 -
+day4 - Core Data research, mockups, Cont.
 
 day5 -
 
