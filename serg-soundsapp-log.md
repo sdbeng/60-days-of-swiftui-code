@@ -8,7 +8,7 @@ day3 - Reviewing Core Data API - misc topics
 
 day4 - Core Data research, mockups, Cont.
 
-day5 -
+day5 - Fixing a bug in a function, reading through more docs, learning to write better UI
 
 day6 -
 
