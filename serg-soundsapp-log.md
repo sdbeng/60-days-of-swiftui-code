@@ -10,7 +10,7 @@ day4 - Core Data research, mockups, Cont.
 
 day5 - Fixing a bug in a function, reading through more docs, learning to write better UI
 
-day6 -
+day6 - Building stacks - reading docs
 
 day7 -
 
