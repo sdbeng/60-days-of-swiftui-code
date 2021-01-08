@@ -12,10 +12,20 @@ day5 - Fixing a bug in a function, reading through more docs, learning to write 
 
 day6 - Building stacks - reading docs
 
-day7 -
+day7 - Playing with the figma designs, read more docs, test List, Collections
 
 day8 -
 
 day9 -
 
 day10 -
+
+day11 -
+
+day12 -
+
+day13 -
+
+day14 -
+
+day15 -
