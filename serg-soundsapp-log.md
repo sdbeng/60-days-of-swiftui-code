@@ -14,7 +14,7 @@ day6 - Building stacks - reading docs
 
 day7 - Playing with the figma designs, read more docs, test List, Collections
 
-day8 - Creating a basic game - use slider, struct, props
+day8 - Creating a basic game - use slider, struct, props, use test driven development
 
 day9 -
 
