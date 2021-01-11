@@ -18,7 +18,7 @@ day8 - Creating a basic game - use slider, struct, props, use test driven develo
 
 day9 - CardView app - use scrolling, separate model from views
 
-day10 -
+day10 - Working SwiftUI buttons, gradients, state & binding
 
 day11 -
 
