@@ -20,7 +20,7 @@ day9 - CardView app - use scrolling, separate model from views
 
 day10 - Working SwiftUI buttons, gradients, state & binding
 
-day11 -
+day11 - Rev. Swift conditionals, tuples, code in playground
 
 day12 -
 
