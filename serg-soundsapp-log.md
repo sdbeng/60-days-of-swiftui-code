@@ -22,7 +22,7 @@ day10 - Working SwiftUI buttons, gradients, state & binding
 
 day11 - Rev. Swift conditionals, tuples, code in playground
 
-day12 - Design custom button, rev Swift controls, closures
+day12 - Design custom button, rev Swift controls, closures, resolve 10 challenges
 
 day13 -
 
