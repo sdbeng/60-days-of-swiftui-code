@@ -2,7 +2,7 @@
 
 Welcome to Getting started with #60daysofswiftuicode 2021 project!! 
 
-I'm glad you decided to join me on this challenge. I strongly believe that pair programming and collaboration between developers is the best idea to start and finish a project.
+I'm glad you decided to join me on this challenge. I strongly believe that pair programming and collaboration between developers is not just the best idea to start and finish a project, but it gives you confidence and prepare you when you face roadblocks.
 
 I know there are infinite number of tools and ways to go through this but I just want to get started right away - there will always be road blocks and life changes but I think I needed to set a few goals and work hard to make things happen. No more waiting. Let's beat procrastination!
 
