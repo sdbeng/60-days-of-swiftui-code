@@ -28,7 +28,7 @@ day13 - More code challenges, rev collection and closures concepts
 
 day14 - Revisit modules to sink in some concepts - I also know that learning by repetition helps out flex my memory muscles:)
 
-day15 -
+day15 - Revisit UI Button - SPM
 
 day16 -
 
