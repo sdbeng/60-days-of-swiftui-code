@@ -30,7 +30,7 @@ day14 - Revisit modules to sink in some concepts - I also know that learning by 
 
 day15 - Revisit UI Button - SPM
 
-day16 -
+day16 - Read docs, Code challenge
 
 day17 -
 
