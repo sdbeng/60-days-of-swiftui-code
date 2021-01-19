@@ -34,7 +34,7 @@ day16 - Read docs, Code challenge
 
 day17 - Rev ops btns and conditionals - create sample app with btns - Code challenge
 
-day18 -
+day18 - Data Structures
 
 day19 -
 
