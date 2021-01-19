@@ -26,13 +26,13 @@ day12 - Design custom button, rev Swift controls, resolve 10 code challenges
 
 day13 - More code challenges, rev collection and closures concepts
 
-day14 - Revisit modules to sink in some concepts - I also know that learning by repetition helps out flex my memory muscles:)
+day14 - Revisit modules to sink in some concepts - I also know that learning by repetition flex my memory muscles!
 
 day15 - Revisit UI Button - SPM
 
 day16 - Read docs, Code challenge
 
-day17 - Rev ops btns and conditionals - create sample app with btns 
+day17 - Rev ops btns and conditionals - create sample app with btns - Code challenge
 
 day18 -
 
