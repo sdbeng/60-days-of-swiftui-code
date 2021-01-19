@@ -32,7 +32,7 @@ day15 - Revisit UI Button - SPM
 
 day16 - Read docs, Code challenge
 
-day17 -
+day17 - Rev ops btns and conditionals - create sample app with btns 
 
 day18 -
 
