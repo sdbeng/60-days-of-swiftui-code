@@ -2,11 +2,11 @@
 
 Welcome to Getting started with #60daysofswiftuicode 2021 project!! 
 
-I'm glad you decided to join me on this challenge. I strongly believe that pair programming and collaboration between developers is not just the best idea to start and finish a project, but it gives you confidence and prepare you when you face roadblocks.
+I'm glad you decided to join me on this challenge. I strongly believe that pair programming and collaboration between developers is not just the best idea to start and finish a project, but it gives confidence and prepare you when you face roadblocks.
 
-I know there are infinite number of tools and ways to go through this but I just want to get started right away - there will always be road blocks and life changes but I think I needed to set a few goals and work hard to make things happen. No more waiting. Let's beat procrastination!
+I know there are infinite number of tools and ways to go through this but I just want to get started right away - there will always be road blocks, chunks of code very challenging and life changes but I think I needed to set a few goals and work hard to make things happen. No more waiting. Let's beat procrastination!
 
-My idea is to code a full iOS app with SwiftUI where I/we will be learning and testing up on the new Swift api. Of course, it will grow and improve over time.
+My idea is to code a full iOS app with SwiftUI where I/we will be learning and testing up on the new Swift PAI. Of course, it will grow and improve over time, but it's amazing how it feels when it's pushed to the App Store.
 
 2021 Goal: Publish and iPhone app to the App Store.
 
