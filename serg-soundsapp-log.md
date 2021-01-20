@@ -36,7 +36,7 @@ day17 - Rev ops btns and conditionals - create sample app with btns - Code chall
 
 day18 - Data Structures
 
-day19 -
+day19 - Test sign in with Apple
 
 day20 -
 
