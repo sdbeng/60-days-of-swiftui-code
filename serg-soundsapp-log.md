@@ -38,7 +38,7 @@ day18 - Data Structures
 
 day19 - Test sign in with Apple, login w/Google
 
-day20 -
+day20 - Rev repeat, exiting multiple loops, code chall.
 
 day21 -
 
