@@ -42,7 +42,7 @@ day20 - Rev repeat, exiting multiple loops, code chall.
 
 day21 - Fix bugs
 
-day22 -
+day22 - PHPicker, managing/downloading images, possible solutions
 
 day23 -
 
