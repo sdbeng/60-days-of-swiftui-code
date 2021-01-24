@@ -44,8 +44,19 @@ day21 - Fix bugs
 
 day22 - PHPicker, managing/downloading images, possible solutions
 
-day23 -
+day23 - PHPicker (cont.), selecting images
 
 day24 -
 
 day25 -
+
+day26 -
+
+day27 -
+
+day28 -
+
+day29 -
+
+day30 - reach milestone 🏃🏻
+
