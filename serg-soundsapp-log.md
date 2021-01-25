@@ -46,7 +46,7 @@ day22 - PHPicker, managing/downloading images, possible solutions
 
 day23 - PHPicker (cont.), selecting images
 
-day24 -
+day24 - Work code challenges
 
 day25 -
 
