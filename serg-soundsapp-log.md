@@ -48,7 +48,7 @@ day23 - PHPicker (cont.), selecting images
 
 day24 - Work code challenges
 
-day25 -
+day25 - Mooore code challenges - returning two values from func: Tuples
 
 day26 -
 
