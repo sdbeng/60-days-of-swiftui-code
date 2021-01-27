@@ -50,7 +50,7 @@ day24 - Work code challenges
 
 day25 - Mooore code challenges - returning two values from func: Tuples
 
-day26 -
+day26 - Param labels, variadic f, code challenges
 
 day27 -
 
