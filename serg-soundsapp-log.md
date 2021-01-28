@@ -52,7 +52,7 @@ day25 - Mooore code challenges - returning two values from func: Tuples
 
 day26 - Param labels, variadic f, code challenges
 
-day27 -
+day27 - Review, write throwing funcs
 
 day28 -
 
