@@ -54,7 +54,7 @@ day26 - Param labels, variadic f, code challenges
 
 day27 - Review, write throwing funcs
 
-day28 -
+day28 - Review day - code challenges
 
 day29 -
 
