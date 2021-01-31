@@ -56,7 +56,7 @@ day27 - Review, write throwing funcs
 
 day28 - Review day - code challenges
 
-day29 -
+day29 - code challenges - UI demo
 
 day30 - reach milestone 🏃🏻
 
