@@ -58,5 +58,15 @@ day28 - Review day - code challenges
 
 day29 - code challenges - UI demo
 
-day30 - reach milestone 🏃🏻 yay!! i got my 30 days!! Creating a Button with Gradient Background and Shadow
+day30 - Reached milestone 🏃🏻 yay!! i got my 30 days!! Creating a Button with Gradient Background and Shadow
+
+day31 - Keeping up with the API
+
+day32 -
+
+day33 -
+
+day34 -
+
+day35 -
 
