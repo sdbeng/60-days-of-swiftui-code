@@ -58,5 +58,5 @@ day28 - Review day - code challenges
 
 day29 - code challenges - UI demo
 
-day30 - reach milestone 🏃🏻
+day30 - reach milestone 🏃🏻 yay!! i got my 30 days!!
 
