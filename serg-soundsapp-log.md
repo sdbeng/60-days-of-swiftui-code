@@ -62,7 +62,7 @@ day30 - Reached milestone 🏃🏻 yay!! i got my 30 days!! Creating a Button wi
 
 day31 - Keeping up with the API
 
-day32 - Review CloudKit api
+day32 - Review CloudKit api - Explore Core Data integration, new api
 
 day33 -
 
