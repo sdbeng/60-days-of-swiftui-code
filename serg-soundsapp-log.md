@@ -66,7 +66,19 @@ day32 - Review CloudKit api - Explore Core Data integration, new api
 
 day33 - Rev Core Data
 
-day34 -
+day34 - Code sample app
 
 day35 -
+
+day36 -
+
+day37 -
+
+day38 -
+
+day39 -
+
+day40 -
+
+day41 -
 
