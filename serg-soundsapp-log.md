@@ -68,7 +68,7 @@ day33 - Rev Core Data
 
 day34 - Code sample app
 
-day35 -
+day35 - Default parameters
 
 day36 -
 
