@@ -70,7 +70,7 @@ day34 - Code sample app
 
 day35 - Default parameters
 
-day36 -
+day36 - Create basic COre Data template
 
 day37 -
 
