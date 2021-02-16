@@ -70,9 +70,9 @@ day34 - Code sample app
 
 day35 - Default parameters
 
-day36 - Create basic COre Data template
+day36 - Create basic Core Data template
 
-day37 -
+day37 - Core Data single class - cont.
 
 day38 -
 
