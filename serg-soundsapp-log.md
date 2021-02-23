@@ -74,9 +74,9 @@ day36 - Create basic Core Data template
 
 day37 - Core Data single class - cont.
 
-day38 -
+day38 - Interviews
 
-day39 -
+day39 - Interviews
 
 day40 -
 
