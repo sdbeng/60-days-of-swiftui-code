@@ -78,7 +78,36 @@ day38 - Interviews
 
 day39 - Interviews
 
-day40 -
+day40 - After a brief pit stop, I get back up with: introducing a new approach known as Diffable Data Sources to manage data for a collection view
 
 day41 -
+
+day42 -
+
+day43 -
+
+day44 -
+
+day45 -
+
+day46 -
+day47 -
+day48 -
+
+day50 -
+
+day51 -
+
+day52 -
+
+day53 -
+
+day54 -
+day55 -
+day56 -
+
+day57 -
+
+day58 -
+day59 -
 
