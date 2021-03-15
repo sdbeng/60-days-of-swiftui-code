@@ -82,7 +82,7 @@ day40 - After a brief pit stop, I get back up with: introducing a new approach k
 
 day41 - break
 
-day42 -
+day42 - func challenge
 
 day43 -
 
